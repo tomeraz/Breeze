@@ -22,6 +22,6 @@ noUiSlider.create(timeSlider, {
   pips: {
     mode: "steps",
     stepped: true,
-    density: 4,
+    density: 1,
   },
 });
