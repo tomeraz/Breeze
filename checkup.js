@@ -19,9 +19,9 @@ noUiSlider.create(timeSlider, {
   behaviour: "tap-drag",
   tooltips: true,
   // Show a scale with the slider
-  pips: {
-    mode: "steps",
-    stepped: true,
-    density: 1,
-  },
+  // pips: {
+  //   mode: "steps",
+  //   stepped: true,
+  //   density: 1,
+  // },
 });
